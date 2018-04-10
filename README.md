@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-These code will enable a stable version k-means algorithm. Technically, we select the best classification result from several k-means results.
+These code will enable a stable version k-means algorithm using JS. Technically, we select the best classification result from several k-means results.
 
 test code can be found in client/page1/index.js
 
